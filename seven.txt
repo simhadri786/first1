@@ -1,6 +1,12 @@
 code 
 number
+<<<<<<< HEAD
 six
 nine
 look
 pool
+=======
+new
+nine
+four
+>>>>>>> 7f17e77d3002ad8c7e2c2ef8cb7303fd7eb98cfa
